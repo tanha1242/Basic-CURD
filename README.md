@@ -39,8 +39,8 @@ basic-curd/
 
 ### 1. Clone the repo
 ```bash
-git clone <https://github.com/tanha1242/Basic-CURD>
-cd basic-curd
+git clone https://github.com/tanha1242/Basic-CURD.git
+cd Basic-CURD
 ```
 
 ### 2. Install dependencies
