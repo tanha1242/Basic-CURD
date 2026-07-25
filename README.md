@@ -39,7 +39,7 @@ basic-curd/
 
 ### 1. Clone the repo
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone <https://github.com/tanha1242/Basic-CURD>
 cd basic-curd
 ```
 
@@ -49,7 +49,7 @@ npm install
 ```
 
 ### 3. Configure environment variables
-Copy `.env.example` to `.env` and update with your MySQL credentials:
+Copy `.env.example` to `.env` and update with  MySQL credentials:
 ```bash
 cp .env.example .env
 ```
@@ -130,7 +130,7 @@ Enter your choice:
 
 ## 🎥 Demo Video
 
-<ADD_YOUR_DEMO_VIDEO_LINK_HERE>
+<https://drive.google.com/file/d/1jTM31LfwgXZFvhnEu3xU7ABGbbZMCMJp/view?usp=sharing>
 
 ---
 
